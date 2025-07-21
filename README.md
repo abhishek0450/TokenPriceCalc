@@ -106,3 +106,6 @@ Schedule a full history fetch for a token.
   "estimatedCompletion": "2024-01-20T15:30:00Z"
 }
 ```
+## Screenshot
+
+<img width="1164" height="623" alt="Screenshot 2025-07-21 195145" src="https://github.com/user-attachments/assets/dbaead2a-b0ab-4bfc-8eea-d9ce25f64803" />
